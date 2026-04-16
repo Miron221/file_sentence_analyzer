@@ -19,4 +19,8 @@ This project is part of my Python learning journey and portfolio building. It sh
 3. Run the program:
 
 ```bash
+## 📸 Screenshot
+
+![Program Output](output)
+
 python file_sentence_analyzer.py
